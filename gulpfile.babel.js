@@ -217,7 +217,7 @@ gulp.task('copy-sw-scripts', () => {
     .pipe(gulp.dest('dist/scripts/sw'));
 });
 gulp.task('copy-lib-scripts', () => {
-  return gulp.src(['app/libs/*'])
+  return gulp.src(['app/libs/**/*'])
     .pipe(gulp.dest('dist/libs'));
 });
 
