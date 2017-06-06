@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Harjyot Singh -- Developer -- harjyot7@gmail.com
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3

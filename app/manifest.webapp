@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "excerebrose.github.io",
+  "launch_path": "/index.html",
+  "description": "Personal website for Harjyot Singh (harjyot7@gmail.com)",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Harjyot Singh",
+    "url": "http://harjyotsingh.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "excerebrose.github.io",
+      "description": "Personal Website for Harjyot Singh (harjyot7@gmail.com)"
+    }
+  }
+}
