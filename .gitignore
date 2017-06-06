@@ -1,6 +1,0 @@
-.publish
-node_modules
-dist/
-.tmp
-app.yaml
-yarn.lock
