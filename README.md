@@ -3,7 +3,7 @@
 Simple Boilerplate I use for static projects of mine.
 Based on [Google's Web Starter Kit](https://github.com/google/web-starter-kit/blob/master/docs/install.md)
 
-[DEMO HERE](http://excerebrose.github.com/static-boilerplate)
+[DEMO HERE](http://excerebrose.github.com/static-boilerplate) and [Personal website](http://harjyotsingh.com)
 ## Setup
 - `yarn install`
 - Update the git url to your required repositery link with `git remote set-url origin <your git address>`
