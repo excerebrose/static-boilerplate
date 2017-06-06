@@ -74,13 +74,7 @@
 })();
 
 jQuery(document).ready(function($){
-	AOS.init();
-  
-  var prog_bars = $('.progress-bar');
-  prog_bars.each(function(i) {
-    var bar = new ProgressBar.Line(prog_bars.get(i), {
-      color: '#fff'
-    });
-    bar.animate($(this).data("width"));
-  })
+	AOS.init({
+    delay: 500,
+  });
 });
